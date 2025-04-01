@@ -30,3 +30,20 @@ A simple WebSocket app built with **TypeScript**, **Express**, and **ws**, with 
 ```bash
 git clone https://github.com/yourusername/websocket-ts-demo.git
 cd websocket-ts-demo
+```
+
+### 📦 Install Dependencies
+```bash
+npm install
+```
+
+### ▶️ Run the App (Dev Mode)
+```
+npx ts-node src/server.ts
+```
+
+### This will start the WebSocket + Express server at:
+```bash
+http://localhost:3000
+
+```
